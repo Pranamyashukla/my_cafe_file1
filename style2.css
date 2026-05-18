@@ -1,0 +1,46 @@
+ body {
+            font-family: Arial;
+            background-color: #ffe8cc;
+            text-align: center;
+        }
+
+        .menu {
+            background: white;
+            width: 400px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 15px;
+        }
+
+        h1 {
+            color: brown;
+        }
+
+        h2 {
+            color: darkorange;
+        }
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: azure;
+}
+li{
+    float:left;
+    font-size: 20px;
+    padding:5px;
+    color:azure;
+
+
+}
+li a{
+    display:block;
+    text-decoration: none;
+    color:rgb(43, 27, 3);
+    
+
+}
+li a:hover{
+    background-color: rgb(105, 189, 189);
+}
